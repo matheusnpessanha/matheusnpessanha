@@ -1,5 +1,3 @@
-### Olá, me chamo Matheus Pessanha!
-
 <h1 align="center">Olá! Me chamo Matheus Pessanha 👋</h1>
 
 🎓 Formado em Direito e atualmente finalizando o curso de Análise e Desenvolvimento de Sistemas.  
