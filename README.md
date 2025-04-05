@@ -30,7 +30,7 @@
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-Matheus%20Pessanha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-usuario/)]([https://www.linkedin.com/in/matheus-nascimento-pessanha/])  
-📧 matheuspessa@email.com
+📧 matheuspessa@gmail.com
 
 ---
 
