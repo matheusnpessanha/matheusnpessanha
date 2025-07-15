@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Matheus Pessanha 👋</h1>
 
 🎓 Formado em Direito e Análise e Desenvolvimento de Sistemas.  
-💼 Em transição de carreira e atuando como freelancer nas áreas de tecnologia e atendimento.  
+💼 Atuando como freelancer nas áreas de tecnologia e atendimento.  
 🚀 Buscando oportunidades como desenvolvedor backend (Python), com interesse também em automações, análise de dados e DevOps.  
 📍 Localizado em Pernambuco | Disponível para remoto.
 
