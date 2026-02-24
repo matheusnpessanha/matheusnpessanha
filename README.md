@@ -19,7 +19,7 @@
 
 | Projeto (em breve) | Descrição | Tecnologias |
 |--------------------|-----------|-------------|
-| Agenda telefonica | Agenda telefônica, customizavel para você ter na sua empresa | Django, SQLite |
+| Agenda telefônica | Agenda telefônica, customizavel para você ter na sua empresa | Django, SQLite |
 | Bot de automação no Telegram | Automatiza alertas e comandos úteis via Telegram | Python, requests, API Telegram |
 | Dashboard de dados públicos | Análise de dados com visualização interativa | Pandas, Plotly, MongoDB |
 
